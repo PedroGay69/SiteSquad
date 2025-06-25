@@ -1,0 +1,473 @@
+<!doctype html>
+<html lang="pt-BR" prefix="og: http://ogp.me/ns#">
+<head>
+	
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-599395739"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'AW-599395739');
+	</script>
+
+    <!-- metas -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <link rel="icon" href="https://i.postimg.cc/wj4c8DYC/3332b3fc-ba2e-456c-bbc9-5316061f712c-2.jpg" />
+    
+    <!-- css -->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Yantramanav:400,700,300,100" rel="stylesheet">
+    <link rel="stylesheet" href="https://goodtruck.org.br/wp-content/themes/navas/dist/css/app.min.css" />
+
+    <title>Menos é Mais | Comida para todos</title>
+<meta name="description" content="Nós mudamos o mundo, um prato por vez. Descubra como você pode fazer a diferença na vida de milhares de pessoas. Conheça a GoodTruck."/>
+<link rel="canonical" href="https://goodtruck.org.br/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="GoodTruck | Comida para a alma | Faça parte" />
+<meta property="og:description" content="Nós mudamos o mundo, um prato por vez. Descubra como você pode fazer a diferença na vida de milhares de pessoas. Conheça a GoodTruck." />
+<meta property="og:url" content="https://goodtruck.org.br/" />
+<meta property="og:site_name" content="GoodTruck" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Nós mudamos o mundo, um prato por vez. Descubra como você pode fazer a diferença na vida de milhares de pessoas. Conheça a GoodTruck." />
+<meta name="twitter:title" content="GoodTruck | Comida para a alma | Faça parte" />
+<meta property="DC.date.issued" content="2016-06-02T14:39:52+00:00" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/goodtruck.org.br\/","name":"GoodTruck","potentialAction":{"@type":"SearchAction","target":"https:\/\/goodtruck.org.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para GoodTruck &raquo; Home" href="https://goodtruck.org.br/home/feed/" />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://goodtruck.org.br/wp-content/plugins/instagram-feed/css/sb-instagram-2-2.min.css?ver=2.4.4' type='text/css' media='all' />
+
+</head>
+ 
+<body class="home page-template-default page page-id-2">
+
+
+<header class="cabecalho zindex9 ">
+  <div class="container containerEdit">
+    <div class="row">
+      <div class="col l5 hide-on-med-and-down cabecalho__menu">
+        <nav>
+          <ul>
+            <li>
+              <a href="https://www.youtube.com/watch?v=DZIASl9q90s" class="menuItem 
+              ">
+                <span>home</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://goodtruck.org.br/sobre" class="menuItem               ">
+                <span>
+                  Sobre                </span>
+              </a>
+            </li>
+            <li>
+              <a href="https://goodtruck.org.br/acoes" class="menuItem               ">
+                <span>Ações</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://goodtruck.org.br/cases" class="menuItem               ">
+                <span>Cases</span>
+              </a>
+            </li>
+                        <li>
+              <a href="https://goodtruck.org.br/blog" class="menuItem               ">
+                <span>Blog</span>
+              </a>
+            </li>
+                        <li>
+              <a href="https://goodtruck.org.br/contato" class="menuItem               ">
+                <span>Contato</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div class="col l2 s8 cabelho__logo">
+        <a href="https://goodtruck.org.br">
+          <img src="https://i.postimg.cc/4yMsR8wK/596ea2f4-369a-435e-9836-743b0e850892.png" alt="">
+        </a>
+      </div>
+      <div class="col l5 hide-on-med-and-down cabecalho__menu">
+        <nav>
+          <ul>
+            <li>
+              <a href="https://goodtruck.org.br/seja-voluntario" class="menuItem               ">
+                <span>Seja voluntário</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://goodtruck.org.br/onde-estamos" class="menuItem               ">
+                <span>Onde estamos</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://goodtruck.org.br/transparencia" class="menuItem               ">
+                <span>Transparência</span>
+      </div>
+</header> 
+<div class="menuMobile">
+  <div class="cabecalho__menu">
+    <nav>
+      <ul>
+        <li>
+          <a href="https://goodtruck.org.br" class="menuItem"><span>home</span></a>
+        </li>
+        <li>
+          <a href="https://goodtruck.org.br/sobre" class="menuItem"><span>Sobre</span></a>
+        </li>
+        <li>
+          <a href="https://goodtruck.org.br/acoes" class="menuItem"><span>Ações</span></a>
+        </li>
+        <li>
+          <a href="https://goodtruck.org.br/cases" class="menuItem"><span>Cases</span></a>
+        </li>
+                <li>
+          <a href="https://goodtruck.org.br/blog" class="menuItem"><span>Blog</span></a>
+        </li>
+        <li>
+          <a href="https://goodtruck.org.br/seja-voluntario" class="menuItem"><span>SEJA VOLUNTÁRIO</span></a>
+        </li>
+        <li>
+          <a href="https://goodtruck.org.br/onde-estamos" class="menuItem"><span>ONDE ESTAMOS</span></a>
+        </li>
+        <li>
+          <a href="https://goodtruck.org.br/contato" class="menuItem"><span>Contato</span></a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+<section class="banner banner--home zindex3">
+    <div class="parallax-container">
+        <div class="parallax">
+                        <img src="https://img.freepik.com/fotos-gratis/ingredientes-perto-da-pizza_23-2147772081.jpg" class="banner__bg">
+        </div>
+
+        <div class="centerAlign fullWidth">
+            <div class="container">
+                <div class="row">
+                    <div class="col s12 banner__chamada center-align">
+                        <h1 class="tituloMedio2 txtBranco uppercase">
+                          Alimento de verdade merece destino melhor: o prato de quem precisa. </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="banner__cards">
+        <div class="container">
+            <div class="row">
+                <div class="col m4 s12 cards">
+                    <div class="roundBorder bgBranco cards__info shadow">
+                        <div class="centerAlign flex">
+                            <img src="https://i.postimg.cc/6QwwK4Vh/88dc2405-578b-4f91-bd1e-8d697fa457e8.png" draggable="false">
+
+							<div class="dados">					
+																<p class="dados__numero">1.000.000</p>
+								<p class="dados__txt">
+									PRATOS COMPLEMENTADOS								</p>
+							</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col m4 s12 cards">
+                    <div class="roundBorder bgBranco cards__info shadow">
+                        <div class="centerAlign flex">
+                            <img src="https://i.postimg.cc/0QysMgBM/32d6eaef-7ca4-4050-995c-2c40108a085c.png" draggable="false">
+                            <div class="dados">
+                                <p class="dados__numero">500</p>
+                                <p class="dados__txt">
+                                    FAMÍLIAS ATENDIDAS SEMANALMENTE                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col m4 s12 cards">
+                    <div class="roundBorder bgBranco cards__info shadow">
+                        <div class="centerAlign flex">
+                            <img src="https://i.postimg.cc/V6KzDsCW/d204d615-930d-43cf-9cac-98b320749e3d.png" draggable="false">
+                            <div class="dados">
+                                <p class="dados__numero">+100 </p>
+                                <p class="dados__txt">
+                                    TONELADAS DE ALIMENTOS SALVOS POR COLHEITA URBANA                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				
+				<div class="blocoConteudo col s12">
+						<p style="text-align: center">Alimentos em boas condições, doados por distribuidores e supermercados, que deixaram de ser desperdiçados e foram destinados para pessoas em situação de vulnerabilidade, conforme permitido pela Lei nº 14.016/2020.</p>
+				</div>
+			</div>
+        </div>
+    </div>
+</section>
+
+
+<main class="bgCinza existimos">
+  <div class="container">
+      <div class="row">
+          <div class="blocoConteudo col s12">
+              <div class="col s12 existimos__titulo resp-Center">
+                  <h2 class="tituloPequeno center-align">
+                      <span class="bgCinza bgTitulo zindex2">
+                      Nós existimos porque:
+                      </span>
+                  </h2>
+                  <hr class="linhaTitulo linhaTituloBranca">
+              </div>
+          </div>
+
+          <div class="blocoConteudo col s12">
+              <div class="col m6 s12 existimos__texto existimos__texto--padR">
+                  <h3 class="tituloMedio2 txtSemibold resp-Center" style="color: #000;">
+                      <span class="txtPreto">32%</span> de toda a produção mundial de alimentos é <span class="txtPreto">desperdiçada</span>
+                  </h3>
+                  <p class="texto resp-Center" style="color: #000;">
+                      Segundo o Relatório Nacional sobre Desperdício e Fome (2023), o Brasil descarta cerca de 58 milhões de toneladas de alimentos por ano — alimentos que poderiam alimentar milhões de pessoas.
+                  </p>
+              </div>
+              <div class="col m6 s12 existimos__imagem">
+                  <div class="centerAlign fullWidth">
+                      <img src="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_lixo29.jpg" draggable="false" class="animate__animated animate__animated--Pulse animate__slow">
+                  </div>
+              </div>
+          </div>
+
+          <div class="blocoConteudo col s12">
+              <div class="col m6 s12 push-m6 existimos__texto existimos__texto--padL">
+                  <h3 class="tituloPequeno txtSemibold resp-Center" style="color: #000;">
+                      <span class="txtPreto">28,9%</span> da população brasileira vive com algum grau de <span class="txtPreto">insegurança alimentar</span>
+                  </h3>
+                  <p class="texto resp-Center" style="color: #000;">
+                      No país, mais de 65 milhões de brasileiros convivem com a incerteza de suas próximas refeições, de acordo com a PNAD Contínua (2024).
+                  </p>
+              </div>
+              <div class="col m6 s12 pull-m6 existimos__imagem">
+                  <div class="centerAlign fullWidth">
+                      <img src="https://conteudo.imguol.com.br/c/entretenimento/8a/2021/03/22/doacao-de-refeicao-para-pessoas-em-situacao-de-vulnerabilidade-1616448339273_v2_900x506.jpg" draggable="false" class="animate__animated animate__animated--Pulse animate__slow">
+                  </div>
+              </div>
+          </div>
+
+          <div class="blocoConteudo col s12">
+              <div class="col l7 s12 existimos__texto existimos__texto--bloco3">
+                  <h3 class="tituloMedio2 txtSemibold right-align resp-Center" style="color: #000;">
+                      Para mudar essa realidade, levamos alimentos <span class="txtPreto">onde sobra</span> e entregamos <span class="txtPreto">onde falta.                                                                  Etapas:</span>
+                  </h3>
+              </div>
+              <div class="col l5 s12 existimos__texto existimos__texto--bloco3">
+                  <p class="texto resp-Center" style="color: #000;">  
+              </div>
+          </div>
+            <div class="blocoConteudo col s12">
+                <div class="existimos__timeline hide-on-small-only">
+                    <img src="https://goodtruck.org.br/wp-content/themes/navas/dist/img/timeline2.svg" class="zindex1 timeline">
+                                    </div>                                   
+                </div>
+            </div>
+
+            <div class="blocoConteudo col s12">
+                <div class="col l12 existimos__texto">
+                    <h3 class="tituloMedio2 txtSemibold">
+                    
+                        Ajuda para <span class='txtVermelho'> todos <br>espalhando</span> esperança                    </h3>
+                </div>
+                <div class="existimos__trabalhe col s12">
+                                                                        <div class="col l3 m6 s12 cards">
+                                <a class="roundBorder bgBranco cards__info shadow" href="https://www.gov.br/pt-br/servicos/solicitar-doacao-de-alimentos-dos-estoques-publicos">
+                                    <img src="https://braziljournal.com/wp-content/uploads/2023/09/shutterstock_159119567-857x482.jpg?x50892" draggable="false">
+                                    <div class="cards__info__txt">
+                                        <p class="textoGrande txtVermelho">
+                                            Doação                                        </p>
+                                        <p class="texto">
+                                            Solicite sua doação. Se você tem alimentos ou recursos para doar, entre em contato conosco. Cuidamos da coleta e distribuição para levar comida a quem precisa, combatendo o desperdício e a fome. Faça parte dessa corrente do bem! </p>
+                                    </div>
+                                    <div class="seta setaVermelha"></div>
+                                </a>
+                            </div>
+                                                                                                                            <div class="col l3 m6 s12 cards">
+                                <a class="roundBorder bgBranco cards__info shadow" href="https://www.imasul.ms.gov.br/conceitos-de-educacao-ambiental/">
+                                    <img src="https://blog.estudesemfronteiras.com/wp-content/uploads/2023/09/educacao-ambiental-3.png" draggable="false">
+                                    <div class="cards__info__txt">
+                                        <p class="textoGrande txtVermelho">
+                                            Educação <b>ambiental       </b>                                 </p>
+                                        <p class="texto">
+                                          “Entendem-se por educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade.”</p>
+                                    </div>
+                                    <div class="seta setaVermelha"></div>
+                                </a>
+                            </div>
+                                                                                                                            <div class="col l3 m6 s12 cards">
+                                <a class="roundBorder bgBranco cards__info shadow" href="https://bancodealimentos.org.br/junte-se-a-causa/">
+                                    <img src="https://media.istockphoto.com/id/1625310710/pt/foto/happy-group-of-volunteer-people-stacking-hands-celebrating-together-outdoor-teamwork-and.jpg?s=612x612&w=0&k=20&c=ML_ePG52vnhbusKmSsEVK51CiWQAuJVyKmYiLdyXrw4=" draggable="false">
+                                    <div class="cards__info__txt">
+                                        <p class="textoGrande txtVermelho">
+                                            Junte-se <b>a causa</b>                                        </p>
+                                        <p class="texto">
+                                          Jogar bons alimentos no lixo enquanto milhares de pessoas passam fome é inaceitável. Ajude a ONG Banco de Alimentos  a combater a fome e o desperdício oferecendo alimentação digna e de qualidade para pessoas que se encontram em situação de vulnerabilidade e insegurança alimentar.  </p>
+                                    </div>
+                                    <div class="seta setaVermelha"></div>
+                                </a>
+                            </div>
+                                                                                                                            <div class="col l3 m6 s12 cards">
+                                <a class="roundBorder bgBranco cards__info shadow" href="https://bancodealimentos.org.br/">
+                                    <img src="https://media.istockphoto.com/id/1916729901/pt/foto/meeting-success-two-business-persons-shaking-hands-standing-outside.jpg?s=612x612&w=0&k=20&c=qET3L4L5hNFfTIIx-eTZcd6wYYFYwcUb3OR9EDtKiMA=" draggable="false">
+                                    <div class="cards__info__txt">
+                                        <p class="textoGrande txtVermelho">
+                                            Parceria que alimenta                                       </p>
+                                        <p class="texto">
+                                            O Menos é Mais se une ao Banco de Alimentos para combater a fome e o desperdício.
+Juntos, levamos comida a quem precisa e construímos um futuro com mais dignidade.                                       </p>
+                                    </div>
+                                    <div class="seta setaVermelha"></div>
+                                </a>
+                            </div>
+                                            </div>
+            </div>
+        </div>
+    </div>
+</div>
+</main>
+    
+    <div class="container boxDoacao">
+    <div class="row">
+        <a class="col m6 s12" href="https://goodtruck.org.br/doe" -->
+            <div class="bgVermelho roundBorder boxDoacao__bloco boxDoacao__bloco--doacao">
+                <div class="centerAlign doacao">
+                    <h3 class="tituloPequeno txtSemibold txtBranco">
+                        
+                        Doações                   </h3>
+                    <p class="textoPequeno txtPreto2">
+                        Com qualquer valor, você ajuda a alimentar quem mais precisa e combate o desperdício.
+                    </p>
+                </div>
+                <div class="seta setaBranca"></div>
+            </div>
+        </a>
+        <a class="col m6 s12" href="https://goodtruck.org.br/seja-voluntario">
+            <div class="bgVermelho roundBorder boxDoacao__bloco boxDoacao__bloco--voluntario">
+                <div class="centerAlign doacao">
+                    <h3 class="tituloPequeno txtSemibold txtBranco">
+                        Voluntariado                    </h3>
+                    <p class="textoPequeno txtPreto2">
+                        Doe seu tempo e faça parte de uma rede que transforma empatia em ação.                    </p>
+                </div>
+                <div class="seta setaBranca"></div>
+            </div>
+        </a>
+    </div>
+</div></section>
+
+<section class="bgBranco instagram">
+    <div class="container">
+        <div class="row">
+            <div class="blocoConteudo col s12">
+                <div class="col s12 instagram__titulo">
+                    <h2 class="tituloPequeno txtVermelho txtLight center-align">
+                        <span class="bgBranco bgTitulo zindex2">
+                            
+                            Siga-nos no Instagram                            <a href="https://www.instagram.com/menosemais/" target="_blank" class="txtBold txtVermelho">
+                                @menosemais
+                            </a>
+                        </span>
+                    </h2>
+                    <hr class="linhaTitulo linhaTituloCinza">
+                </div>
+            </div>
+            
+            <div class="blocoConteudo col s12">
+                <div class="hide-on-med-and-down">
+                    
+<div id="sb_instagram" class="sbi sbi_col_5  sbi_width_resp" style="padding-bottom: 20px;width: 100%;" data-feedid="sbi_goodtruckbrasil#5" data-res="auto" data-cols="5" data-num="5" data-shortcode-atts="{}" >
+	
+   
+	<div id="sbi_load">
+
+	
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_goodtruckbrasil#6" data-resized="{&quot;18029427965429965&quot;:{&quot;id&quot;:&quot;496640242_18366801193135705_5869063111667170046_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18087413131616850&quot;:{&quot;id&quot;:&quot;491498068_18364625245135705_7843733838681723564_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18055083689237787&quot;:{&quot;id&quot;:&quot;491433095_18364981912135705_5653946840241927068_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18085305583568821&quot;:{&quot;id&quot;:&quot;496518113_18366458896135705_5368116045518085965_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18067331251792319&quot;:{&quot;id&quot;:&quot;496206266_18366125083135705_7064957946435833672_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18469025137068744&quot;:{&quot;id&quot;:&quot;497768361_18367311748135705_6127999480695386506_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	</span>
+</section>
+
+
+<section class="whatsapp">
+  <a href="https://api.whatsapp.com/send?phone=5598529-5749&" target="_blank">
+    <img src="https://goodtruck.org.br/wp-content/themes/navas/dist/img/whatsapp.svg">
+  </a>
+</section>
+
+<button id="topbutton" class="topbutton">
+  <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="89.2 319.4 236.8 138.6" style="enable-background:new 89.2 319.4 236.8 138.6;" xml:space="preserve"> <path class="st0" d="M320.2,452.3c-7.7,7.7-20.2,7.7-28,0L207,367.3l-85.1,85.1c-8.3,7.1-20.8,6.1-28-2.2c-6.4-7.4-6.4-18.4,0-25.8 l99.1-99.1c7.7-7.7,20.2-7.7,28,0l99.1,99.1C327.9,432.1,327.9,444.6,320.2,452.3z"/> </svg>
+</button>
+
+<footer class="bgPreto rodape">
+  <div class="container">
+    <div class="row">
+      <div class="blocoConteudo col s12">
+        <div class="col l3 s12 rodape__ajuda">
+          <img src="https://i.postimg.cc/4yMsR8wK/596ea2f4-369a-435e-9836-743b0e850892.png" alt="" style="width: 200px;height: 200px;> 
+
+          <nav class="hide-on-med-and-down">
+          </nav>
+        </div>
+        <div class="col editL3 rodape__contato">
+          <h2 class="tituloRodape">Contato</h2>
+          <div class="dadosContato">
+            <img src="https://goodtruck.org.br/wp-content/themes/navas/dist/img/whatsapp.svg">
+            <p>+55 35 4002-8922</p>
+          </div>
+          <div class="dadosContato">
+            <img src="https://goodtruck.org.br/wp-content/themes/navas/dist/img/email.svg">
+            <p>pedraoquasehomem12354@gmail.com</p>
+          </div>
+          <div class="social">
+            <!-- INSTAGRAM -->
+<a href="https://www.instagram.com/goodtruckbrasil/" target="_blank">
+    <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 475 475" style="enable-background:new 0 0 475 475;" xml:space="preserve"><style type="text/css">.st0{fill:#E33636}</style><g> <path class="st0" d="M333.2,24H141.8C76.9,24,24,76.9,24,141.8v191.3c0,65,52.9,117.8,117.8,117.8h191.3 c65,0,117.8-52.9,117.8-117.8V141.8C451,76.9,398.1,24,333.2,24L333.2,24z M413.1,333.2c0,44.1-35.9,79.9-79.9,79.9H141.8 c-44.1,0-79.9-35.9-79.9-79.9V141.8c0-44.1,35.9-79.9,79.9-79.9h191.3c44.1,0,79.9,35.9,79.9,79.9v191.4H413.1z"/> <path class="st0" d="M237.5,127.5c-60.7,0-110,49.4-110,110c0,60.7,49.4,110,110,110c60.7,0,110-49.4,110-110 C347.5,176.8,298.2,127.5,237.5,127.5L237.5,127.5z M237.5,309.6c-39.8,0-72.1-32.3-72.1-72.1s32.4-72.1,72.1-72.1 s72.1,32.4,72.1,72.1C309.6,277.3,277.3,309.6,237.5,309.6L237.5,309.6z"/> <path class="st0" d="M352.1,95.4c-7.3,0-14.5,2.9-19.6,8.1c-5.2,5.2-8.2,12.3-8.2,19.7c0,7.3,3,14.5,8.2,19.6 c5.1,5.2,12.3,8.1,19.6,8.1c7.3,0,14.5-3,19.6-8.1c5.2-5.2,8.1-12.4,8.1-19.6c0-7.3-3-14.5-8.1-19.7 C366.6,98.3,359.5,95.4,352.1,95.4L352.1,95.4z"/> </g> </svg>
+</a>
+<!-- FACEBOOK -->
+<a href="https://www.facebook.com/goodtruckbrasil" target="_blank">
+    <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 475 475" style="enable-background:new 0 0 475 475;" xml:space="preserve"><style type="text/css">.st0{fill:#E33636}</style><path class="st0" d="M397.6,18.3H77.4c-32.6,0-59.1,26.5-59.1,59.1v320.3c0,32.6,26.5,59.1,59.1,59.1h158l0.3-156.7H195 c-5.3,0-9.6-4.3-9.6-9.6l-0.2-50.5c0-5.3,4.3-9.6,9.6-9.6h40.6v-48.8c0-56.6,34.6-87.5,85.1-87.5H362c5.3,0,9.6,4.3,9.6,9.6v42.6 c0,5.3-4.3,9.6-9.6,9.6h-25.4c-27.5,0-32.8,13.1-32.8,32.2v42.2H364c5.8,0,10.2,5,9.5,10.7l-6,50.5c-0.6,4.8-4.7,8.5-9.5,8.5h-54.1 l-0.3,156.7h94c32.6,0,59.1-26.5,59.1-59.1V77.4C456.7,44.7,430.3,18.3,397.6,18.3z"/> </svg>
+</a>
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/company/goodtruckbrasil/" target="_blank">
+    <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 475 475" style="enable-background:new 0 0 475 475;" xml:space="preserve"><style type="text/css">.st0{fill:#E33636}</style><g> <path class="st0" d="M456,286.2v166.6h-93.7V297.3c0-39-13.5-65.7-47.4-65.7c-25.9,0-41.3,17.9-48.1,35.3 c-2.5,6.2-3.1,14.8-3.1,23.5v162.2H170c0,0,1.3-263.2,0-290.5h93.7v41.2c-0.2,0.3-0.4,0.6-0.6,1h0.6v-1c12.4-19.7,34.7-48,84.4-48 C409.8,155.5,456,197,456,286.2L456,286.2z M72,22.3c-32,0-53,21.7-53,50.2c0,27.9,20.4,50.2,51.8,50.2h0.6c32.7,0,53-22.3,53-50.2 C123.8,43.9,104.1,22.3,72,22.3L72,22.3z M24.6,452.7h93.6V162.3H24.6V452.7z"/> </g> </svg>
+</a>
+          </div>
+        </div>
+
+        
+        <div class="col l4 s12 rodape__blog resp-Center">
+          <h2 class="tituloRodape">Referências
+          </h2>
+                                                  <a href="https://goodtruck.org.br/" class="cards cards--rodape roundBorder shadow" 
+              style="background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8oyYv3INOEFeEMpOvA5NHWLYnK1D_zigRA&s)">
+                <div class="verticalAlign">
+                  <p class="date">
+                                        30 Fevereiro 2025                  </p>
+                  <p class="tituloBlog">
+                  <div class="seta setaBranca"></div>
+                </div>
+              </a>
+                              </div>
+        
+      </div>
+      
+      <div class="blocoConteudo col s12">
+        <div class="col s12 copyright resp-Center">
+          <p class="copyright__texto">
+            © 2049  MENOS É MAIS. Todos os direitos reservados. By <a href="https://sintaxesquad.com.br/" class="Sintaxe.Squad" target="_blank">Sintaxe.Squad</a>
+          </p>
+          <hr>
+        </div>
+</body>
+</html>
